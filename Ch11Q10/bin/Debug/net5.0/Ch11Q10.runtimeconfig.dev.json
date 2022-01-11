@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\minza\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\minza\\.nuget\\packages"
+    ]
+  }
+}
