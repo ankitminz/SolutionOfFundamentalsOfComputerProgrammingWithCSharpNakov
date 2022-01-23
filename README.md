@@ -6,7 +6,7 @@ These are my solution of exercise problems of book **Fundamentals of Computer Pr
 * Visual Studio 2019, .NET 5
 
 # Solutions
-**Note** - You will not see `using` directives in console programs made using .NET 6 in Visual Studio 2022 because they are generated automatically *[like this](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch1/Ch1Q4/obj/Debug/net6.0/Ch1Q4.GlobalUsings.g.cs)*. To know more about it see - https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/top-level-statements
+**Note** - You will not see `using` directives in source code of console programs made using .NET 6 in Visual Studio 2022 because they are generated automatically *[like this](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch1/Ch1Q4/obj/Debug/net6.0/Ch1Q4.GlobalUsings.g.cs)*. To know more about it see - https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/top-level-statements
 ## Chapter 1
 4. [Hello World](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch1/Ch1Q4/HelloWorld.cs)
 5. [Modified](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch1/Ch1Q5/Modified.cs)
