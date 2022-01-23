@@ -50,6 +50,8 @@ These are my solution of exercise problems of book **Fundamentals of Computer Pr
 15. [Exchange Some Bits](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch3/Ch3Q15/ExchangeSomeBits.cs)
 16. [Exchange Bits Expression](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch3/Ch3Q16/Ch3Q16/ExchangeBitsExpression.cs)
 
+## Chapter 4 *(In Progress)*
+
 ## Chapter 10
 10. [All Paths in Maze](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch10/Ch10Q10/AllPathsInMaze.cs)
 11. [Shortest Path in Maze](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch10/Ch10Q11/ShortestPathInAMaze.cs)
@@ -68,5 +70,3 @@ These are my solution of exercise problems of book **Fundamentals of Computer Pr
 9. [Calculate Working Days](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch11/Ch11Q9/CalculateWorkDays.cs)
 10. [Sequence of Positive Integer Nums](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch11/Ch11Q10/SequenceOfPositiveIntegerNums.cs)
 11. [Random Advertising message](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch11/Ch11Q11/RandomAdvertisingMessage.cs)
-
-## Chapter 4 *(In Progress)*
