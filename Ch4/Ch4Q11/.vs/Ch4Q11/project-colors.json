@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd6f3363-87f5-4301-bcd1-25348e117366": {
+      "ProjectGuid": "cd6f3363-87f5-4301-bcd1-25348e117366",
+      "DisplayName": "Ch4Q11",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

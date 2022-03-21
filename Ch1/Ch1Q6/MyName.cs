@@ -1,4 +1,8 @@
-﻿namespace Ch1Q6
+﻿// Write a console application that prints your first and last name on the 
+// console.
+
+
+namespace Ch1Q6
 {
     public class MyName
     {

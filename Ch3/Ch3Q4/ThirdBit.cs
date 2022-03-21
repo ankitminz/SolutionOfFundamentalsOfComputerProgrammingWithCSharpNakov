@@ -1,4 +1,8 @@
-﻿namespace Ch3Q4
+﻿// Write an expression that checks whether the third bit in a given integer 
+// is 1 or 0.
+
+
+namespace Ch3Q4
 {
     public class ThirdBit
     {

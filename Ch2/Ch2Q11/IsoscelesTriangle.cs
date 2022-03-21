@@ -1,4 +1,8 @@
-﻿namespace Ch2Q11
+﻿// Write a program that prints on the console isosceles triangle which 
+// sides consist of the copyright character "©".
+
+
+namespace Ch2Q11
 {
     public class IsoscelesTriangle
     {

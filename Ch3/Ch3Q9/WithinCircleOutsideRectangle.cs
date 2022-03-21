@@ -1,4 +1,10 @@
-﻿namespace Ch3Q9
+﻿// Write an expression that checks for given point {x, y} if it is within the
+// circle K({ 0, 0}, R = 5) and out of the rectangle [{-1, 1}, { 5, 5}]. 
+// Clarification: for the rectangle the lower left and the upper right corners
+// are given.
+
+
+namespace Ch3Q9
 {
     public class WithinCircleOutsideRectangle
     {

@@ -1,4 +1,6 @@
-﻿namespace Ch3Q1
+﻿// Write an expression that checks whether an integer is odd or even.
+
+namespace Ch3Q1
 {
     public class OddOrEven
     {

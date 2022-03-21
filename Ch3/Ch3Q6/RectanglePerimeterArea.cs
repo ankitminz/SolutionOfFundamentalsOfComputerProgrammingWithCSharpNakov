@@ -1,4 +1,7 @@
-﻿namespace Ch3Q6
+﻿// Write a program that prints on the console the perimeter and the area 
+// of a rectangle by given side and height entered by the user.
+
+namespace Ch3Q6
 {
     public class RectanglePerimeterArea
     {

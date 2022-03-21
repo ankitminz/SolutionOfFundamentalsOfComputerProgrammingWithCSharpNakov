@@ -1,4 +1,7 @@
-﻿namespace Ch2Q3
+﻿// Write a program, which compares correctly two real numbers with 
+// accuracy at least 0.000001.
+
+namespace Ch2Q3
 {
     public class CompareRealNums
     {

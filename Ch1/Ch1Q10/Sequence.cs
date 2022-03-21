@@ -1,4 +1,7 @@
-﻿namespace Ch1Q10
+﻿// Write a program that prints the first 100 members of the sequence 2, -
+// 3, 4, -5, 6, -7, 8.
+
+namespace Ch1Q10
 {
     public class Sequence
     {

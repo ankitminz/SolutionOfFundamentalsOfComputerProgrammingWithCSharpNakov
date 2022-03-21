@@ -1,4 +1,7 @@
-﻿namespace Ch1Q11
+﻿// Write a program that reads your age from the console and prints your 
+// age after 10 years.
+
+namespace Ch1Q11
 {
     public class Ch1Q11
     {

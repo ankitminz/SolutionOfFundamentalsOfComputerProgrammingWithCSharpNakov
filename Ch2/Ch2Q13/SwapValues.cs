@@ -1,4 +1,7 @@
-﻿namespace Ch2Q13
+﻿// Declare two variables of type int. Assign to them values 5 and 10 
+// respectively. Exchange (swap) their values and print them.
+
+namespace Ch2Q13
 {
     public class SwapValues
     {

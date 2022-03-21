@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UoBvYJDqWoza1TRVOUWQKoMGi0/0V/D15icP3AvB5+Znw1k5sCRtq7xAI0g/64WO9UUUX3A9YhJgjg3RpMIhvQ==",
+  "dgSpecHash": "b6JLQ+vOSwaZGh7ITfffWWd/7GAbOnRoSVcM2dmmcyrEbgAPssV+U3dbv6pzipUC6x2ub5hTdMdeW0ytz7DmrA==",
   "success": true,
-  "projectFilePath": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch2Q1\\Ch2Q1.csproj",
+  "projectFilePath": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch2\\Ch2Q1\\Ch2Q1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

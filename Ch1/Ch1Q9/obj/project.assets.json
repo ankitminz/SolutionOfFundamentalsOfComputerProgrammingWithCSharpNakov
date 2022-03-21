@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\minza\\.nuget\\packages\\": {}
+    "C:\\Users\\minza\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch1Q9\\Ch1Q9.csproj",
+      "projectUniqueName": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch1\\Ch1Q9\\Ch1Q9.csproj",
       "projectName": "Ch1Q9",
-      "projectPath": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch1Q9\\Ch1Q9.csproj",
+      "projectPath": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch1\\Ch1Q9\\Ch1Q9.csproj",
       "packagesPath": "C:\\Users\\minza\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch1Q9\\obj\\",
+      "outputPath": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch1\\Ch1Q9\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\minza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

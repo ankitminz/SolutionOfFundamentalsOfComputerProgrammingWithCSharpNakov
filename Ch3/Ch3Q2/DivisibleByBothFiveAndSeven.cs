@@ -1,4 +1,8 @@
-﻿namespace Ch3Q2
+﻿// Write a Boolean expression that checks whether a given integer is 
+// divisible by both 5 and 7, without a remainder.
+
+
+namespace Ch3Q2
 {
     public class DivisibleByBothFiveAndSeven
     {

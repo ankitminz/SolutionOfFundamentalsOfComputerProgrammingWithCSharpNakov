@@ -1,4 +1,6 @@
-﻿namespace Ch2Q10
+﻿// Write a program to print a figure in the shape of a heart by the sign "o".
+
+namespace Ch2Q10
 {
     public class Heart
     {

@@ -1,4 +1,7 @@
-﻿namespace Ch3Q5
+﻿// Write an expression that calculates the area of a trapezoid by given 
+// sides a, b and height h.
+
+namespace Ch3Q5
 {
     public class AreaOfTrapezoid
     {

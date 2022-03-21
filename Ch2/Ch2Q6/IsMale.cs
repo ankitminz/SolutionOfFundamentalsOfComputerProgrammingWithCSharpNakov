@@ -1,4 +1,8 @@
-﻿namespace Ch2Q6
+﻿// Declare a variable isMale of type bool and assign a value to it depending 
+// on your gender.
+
+
+namespace Ch2Q6
 {
     public class IsMale
     {

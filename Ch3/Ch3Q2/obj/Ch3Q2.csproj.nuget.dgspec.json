@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch3Q2\\Ch3Q2.csproj": {}
+    "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch3\\Ch3Q2\\Ch3Q2.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch3Q2\\Ch3Q2.csproj": {
+    "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch3\\Ch3Q2\\Ch3Q2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch3Q2\\Ch3Q2.csproj",
+        "projectUniqueName": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch3\\Ch3Q2\\Ch3Q2.csproj",
         "projectName": "Ch3Q2",
-        "projectPath": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch3Q2\\Ch3Q2.csproj",
+        "projectPath": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch3\\Ch3Q2\\Ch3Q2.csproj",
         "packagesPath": "C:\\Users\\minza\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch3Q2\\obj\\",
+        "outputPath": "D:\\CSharp\\FundamentalsOfComputerProgrammingWithCSharpNakov\\Ch3\\Ch3Q2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,4 +1,9 @@
-﻿namespace Ch2Q2
+﻿// Which of the following values can be assigned to variables of type float,
+// double and decimal: 5, -5.01, 34.567839023; 12.345; 8923.1234857;
+// 3456.091124875956542151256683467 ?
+
+
+namespace Ch2Q2
 {
     public class DeclaringRealNums
     {
