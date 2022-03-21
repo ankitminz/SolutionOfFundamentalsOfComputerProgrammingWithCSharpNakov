@@ -52,7 +52,7 @@ These are my solution of exercise problems of book **Fundamentals of Computer Pr
 
 ## Chapter 4
 1. [Sum three number](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q1/Ch4Q1/SumThreeNum.cs)
-2. [Perimeter and area od circle](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q2/Ch4Q2/PerimeterAndAreaOfCircle.cs)
+2. [Perimeter and area of circle](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q2/Ch4Q2/PerimeterAndAreaOfCircle.cs)
 3. [Company info](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q3/Ch4Q3/CompanyInfo.cs)
 4. [Number formatting](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q4/Ch4Q4/NumFormating.cs)
 5. [Divisible by five](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q5/Ch4Q5/DivisibleByFive.cs)
