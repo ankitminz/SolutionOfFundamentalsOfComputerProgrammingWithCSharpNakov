@@ -50,7 +50,19 @@ These are my solution of exercise problems of book **Fundamentals of Computer Pr
 15. [Exchange Some Bits](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch3/Ch3Q15/ExchangeSomeBits.cs)
 16. [Exchange Bits Expression](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch3/Ch3Q16/Ch3Q16/ExchangeBitsExpression.cs)
 
-## Chapter 4 *(In Progress)*
+## Chapter 4
+1. [Sum three number](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q1/Ch4Q1/SumThreeNum.cs)
+2. [Perimeter and area od circle](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q2/Ch4Q2/PerimeterAndAreaOfCircle.cs)
+3. [Company info](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q3/Ch4Q3/CompanyInfo.cs)
+4. [Number formatting](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q4/Ch4Q4/NumFormating.cs)
+5. [Divisible by five](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q5/Ch4Q5/DivisibleByFive.cs)
+6. [Greatest number](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q6/Ch4Q6/GreatestNumber.cs)
+7. [Sum five nums](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q7/Ch4Q7/SumFiveNums.cs)
+8. [Greatest of five nums](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q8/Ch4Q8/GreatestOfFiveNums.cs)
+9. [Sum of n nums](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q9/Ch4Q9/SumOfNNums.cs)
+10. [One to n](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q10/Ch4Q10/OneToN.cs)
+11. [Fibonacci sequence](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q11/Ch4Q11/FibonacciSequence.cs)
+12. [Sum of sequence](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q12/Ch4Q12/SumOfSequence.cs)
 
 ## Chapter 10
 10. [All Paths in Maze](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch10/Ch10Q10/AllPathsInMaze.cs)
