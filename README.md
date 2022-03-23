@@ -64,6 +64,21 @@ These are my solution of exercise problems of book **Fundamentals of Computer Pr
 11. [Fibonacci sequence](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q11/Ch4Q11/FibonacciSequence.cs)
 12. [Sum of sequence](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch4/Ch4Q12/Ch4Q12/SumOfSequence.cs)
 
+## Chapter 5
+1. [Exchange](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q1/Ch5Q1/Exchange.cs)
+2. [Product sign](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q2/Ch5Q2/ProductSign.cs)
+3. [Greatest](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q3/Ch5Q3/Greatest.cs)
+4. [Descending order](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q4/Ch5Q4/DescendingOrder.cs)
+5. [Digit in word](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/tree/master/Ch5/Ch5Q5/Ch5Q5)
+6. [Roots of quadratic equation](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q6/Ch5Q6/RootsOfQuadraticEquation.cs)
+7. [Another greatest](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q7/Ch5Q7/Greatest.cs)
+8. [Do some stuff](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q8/Ch5Q8/DoSomeStuff.cs)
+9. [Subsets with sum zero](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q9/Ch5Q9/SubsetsWithSumZero.cs)
+10. [Bonus points](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q10/Ch5Q10/BonusPoints.cs)
+11. [Num to words](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q11/Ch5Q11/NumToWords.cs)
+
+## Chapter 6 *(In progress)*
+
 ## Chapter 10
 10. [All Paths in Maze](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch10/Ch10Q10/AllPathsInMaze.cs)
 11. [Shortest Path in Maze](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch10/Ch10Q11/ShortestPathInAMaze.cs)
