@@ -1,5 +1,6 @@
-﻿// Write a program that finds the biggest of three integers, using nested 
-// if statements.namespace Ch5Q3
+﻿// Write a program that finds the biggest of three integers, using nested if statements.
+
+namespace Ch5Q3
 {
     public static class Greatest
     {
