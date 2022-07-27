@@ -77,7 +77,27 @@ These are my solution of exercise problems of book **Fundamentals of Computer Pr
 10. [Bonus points](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q10/Ch5Q10/BonusPoints.cs)
 11. [Num to words](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch5/Ch5Q11/Ch5Q11/NumToWords.cs)
 
-## Chapter 6 *(In progress)*
+## Chapter 6
+1. [Numbers from one to n](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q1/Ch6Q1/OneToN.cs)
+2. [Divisible by 3 and 7](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q2/Ch6Q2/DivisibleBy3And7.cs)
+3. [Find smallest and largest number](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q3/Ch6Q3/SmallestLargest.cs)
+4. [Cards](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q4/Ch6Q4/Cards.cs)
+5. [Sum of first n members of fibonacci series](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q5/Ch6Q5/SumOfFibonacciSeries.cs)
+6. [N!/K!](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q6/Ch6Q6/NByKFactorial.cs)
+7. [N!*K!/(N-K)!](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q7/Ch6Q7/FunnyFactorial.cs)
+8. [Catalan number](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q8/Ch6Q8/CatalanNumbers.cs)
+9. [Sum of series](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q9/Ch6Q9/Series.cs)
+10. [Matrix](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q10/Ch6Q10/Matrix.cs)
+11. [No. of zeros in a factorial](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q11/Ch6Q11/Zeros.cs)
+12. [Decimal to binary](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q12/Ch6Q12/DecimalToBinaryConverter.cs)
+13. [Binary to decimal](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q13/Ch6Q13/BinaryToDecimal.cs)
+14. [Decimal to hexadecimal](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q14/Ch6Q14/DecimalToHex.cs)
+15. [Hexadecimal to decimal](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q15/Ch6Q15/HexadecimalToDecimal.cs)
+16. [1 to n in random order](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q16/Ch6Q16/RandomNums.cs)
+17. [LCM and GCD](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q17/Ch6Q17/LCM_GCD.cs)
+18. [Spiral Matrix](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q18/Ch6Q18/SpiralMatrix.cs)
+
+## Chapter 7 *(In progress)*
 
 ## Chapter 10
 10. [All Paths in Maze](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch10/Ch10Q10/AllPathsInMaze.cs)
