@@ -97,7 +97,34 @@ These are my solution of exercise problems of book **Fundamentals of Computer Pr
 17. [LCM and GCD](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q17/Ch6Q17/LCM_GCD.cs)
 18. [Spiral Matrix](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch6/Ch6Q18/Ch6Q18/SpiralMatrix.cs)
 
-## Chapter 7 *(In progress)*
+## Chapter 7
+1. [Create and print array](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q1/Ch7Q1/InitAndPrintArray.cs)
+2. [Array checker](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q2/Ch7Q2/ArrayChecker.cs)
+3. [Compare array](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q3/Ch7Q3/CompareCharArraysAscendingOrder.cs)
+4. [Max sequence of consecutive elements](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q4/Ch7Q4/MaxSequenceOfConsecutiveElements.cs)
+5. [Max sequence of consecutive increasing integers](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q5/Ch7Q5/MaxSequenceOfConsecutiveIncreasingIntegers.cs)
+6. [Max sequence of non-consecutive increasing integers](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q6/Ch7Q6/NonConsecutiveMaximalSequenceOfIncreasingNums.cs)
+7. [Consecutive elements with max sum](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q7/Ch7Q7/MaximalSum.cs)
+8. [Selection sort](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q8/Ch7Q8/SelectionSort.cs)
+9. [Sequence with max sum](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q9/Ch7Q9/MaximalSum.cs)
+10. [Most frequent element](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q10/Ch7Q10/MostFrequentElement.cs)
+11. [Sequence with certain sum](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q11/Ch7Q11/CertainSum.cs)
+12. [Matrix](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q12/Ch7Q12/Matrix.cs)
+13. [Max sum platform](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q13/Ch7Q13/MaxSumPlatform.cs)
+14. [Longest sequence of equal string](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q14/Ch7Q14/LongestSequence.cs)
+15. [Letters to indices](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q15/Ch7Q15/LettersToIndices.cs)
+16. [Binary search](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q16/Ch7Q16/BinarySearch.cs)
+17. [Merge sort](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q17/Ch7Q17/MergeSort.cs)
+18. [Quick sort](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q18/Ch7Q18/QuickSortAlgorithm.cs)
+19. [Prime numbers](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q19/Ch7Q19/PrimeNums.cs)
+20. [Subset with sum S (repetition allowed)](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q20/Ch7Q20/SubsetWithSumS.cs)
+21. [Subset of K elements with sum S (without repetition)](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q21/Ch7Q21/SubsetOfKElementsWithSumSNoRepetition.cs)
+22. [Sorted remaining array](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q22/Ch7Q22/SortedRemainingArray.cs)
+23. [Permutation](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q23/Ch7Q23/Permutation.cs)
+24. [Combination](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q24/Ch7Q24/Combination.cs)
+25. [Largest area](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q25/Ch7Q25/LargestArea.cs)
+
+## Chapter 8 *(in progress)*
 
 ## Chapter 10
 10. [All Paths in Maze](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch10/Ch10Q10/AllPathsInMaze.cs)
