@@ -1,0 +1,15 @@
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\bin\Debug\net6.0\Ch7Q7.exe
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\bin\Debug\net6.0\Ch7Q7.deps.json
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\bin\Debug\net6.0\Ch7Q7.runtimeconfig.json
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\bin\Debug\net6.0\Ch7Q7.dll
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\bin\Debug\net6.0\ref\Ch7Q7.dll
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\bin\Debug\net6.0\Ch7Q7.pdb
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\obj\Debug\net6.0\Ch7Q7.csproj.AssemblyReference.cache
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\obj\Debug\net6.0\Ch7Q7.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\obj\Debug\net6.0\Ch7Q7.AssemblyInfoInputs.cache
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\obj\Debug\net6.0\Ch7Q7.AssemblyInfo.cs
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\obj\Debug\net6.0\Ch7Q7.csproj.CoreCompileInputs.cache
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\obj\Debug\net6.0\Ch7Q7.dll
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\obj\Debug\net6.0\ref\Ch7Q7.dll
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\obj\Debug\net6.0\Ch7Q7.pdb
+D:\CSharp\FundamentalsOfComputerProgrammingWithCSharpNakov\Ch7\Ch7Q7\Ch7Q7\obj\Debug\net6.0\Ch7Q7.genruntimeconfig.cache
