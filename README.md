@@ -124,7 +124,22 @@ These are my solution of exercise problems of book **Fundamentals of Computer Pr
 24. [Combination](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q24/Ch7Q24/Combination.cs)
 25. [Largest area](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch7/Ch7Q25/Ch7Q25/LargestArea.cs)
 
-## Chapter 8 *(in progress)*
+## Chapter 8
+1. [Convert some +ve decimal nos. to binary](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q1/Ch8Q1/ToBinary.cs)
+2. [Convert +ve binary to hex and decimal](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q2/Ch8Q2/ToHexAndDec.cs)
+3. [Convert +ve hex to binary and decimal](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q3/Ch8Q3/ToBinAndDec.cs)
+4. [Decimal to binary and hex](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q4Q6/Ch8Q4Q6/ToBinAndHex.cs) *(4 and 6 were done together)*
+5. [Binary to decimal and hex](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q5Q9/Ch8Q5Q9/BinaryToDecAndHex.cs) *(5 and 9 were done together)*
+6. [Decimal to binary and hex](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q4Q6/Ch8Q4Q6/ToBinAndHex.cs)
+7. [Hex to binary and decimal](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q7Q8/Ch8Q7Q8/HexToBinAndDec.cs) *(7 and 8 were done together)*
+8. [Hex to binary and decimal](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q7Q8/Ch8Q7Q8/HexToBinAndDec.cs)
+9. [Binary to decimal and hex](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q5Q9/Ch8Q5Q9/BinaryToDecAndHex.cs)
+10. [Binary to decimal using horner scheme](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q10/Ch8Q10/BinToDec.cs)
+11. [Roman to arabic](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q11/Ch8Q11/RomanToArabic.cs)
+12. [Arabic to roman](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q12/Ch8Q12/ArabicToRoman.cs)
+13. [Base converter](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q13/Ch8Q13/BaseConverter.cs)
+14. [Precision](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q14/Ch8Q14/Precision.cs)
+15. [Float representation](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q15/Ch8Q15/FloatRepresentation.cs)
 
 ## Chapter 10
 10. [All Paths in Maze](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch10/Ch10Q10/AllPathsInMaze.cs)
