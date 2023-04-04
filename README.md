@@ -141,9 +141,22 @@ These are my solution of exercise problems of book **Fundamentals of Computer Pr
 14. [Precision](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q14/Ch8Q14/Precision.cs)
 15. [Float representation](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch8/Ch8Q15/Ch8Q15/FloatRepresentation.cs)
 
-## Chapter 9 *(In progress)*
+## Chapter 9
+1. [Greeting Method](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q1/Ch9Q1/GreetingMethod.cs)
+2. [Find Max](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q2/Ch9Q2/FindMax.cs)
+3. [English name](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q3/Ch9Q3/EnglishName.cs)
+4. [Frequency](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q4/Ch9Q4/Frequency.cs)
+5. [Check](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q5/Ch9Q5/Check.cs)
+6. [Greatest](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q6/Ch9Q6/Greatest.cs)
+7. [Reverse Digits](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q7/Ch9Q7/ReverseDigits.cs)
+8. [Adding big numbers](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q8/Ch9Q8/AddingBigNums.cs)
+9. [Sorting array](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q9/Ch9Q9/SortingArray.cs)
+10. [Factorial](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q10/Ch9Q10/Factorials.cs)
+11. [Tasks](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q11/Ch9Q11/Tasks.cs)
+12. [Adding polynomials](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q12/Ch9Q12/AddingPolynomials.cs)
+13. [Multiplying polynomials](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch9/Ch9Q13/Ch9Q13/MultiplyingPoly.cs)
 
-## Chapter 10
+## Chapter 10 *(in progress)*
 10. [All Paths in Maze](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch10/Ch10Q10/AllPathsInMaze.cs)
 11. [Shortest Path in Maze](https://github.com/ankitminz/SolutionOfFundamentalsOfComputerProgrammingWithCSharpNakov/blob/master/Ch10/Ch10Q11/ShortestPathInAMaze.cs)
 12. *Not done*
